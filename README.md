@@ -16,6 +16,8 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How To Contribute
 
+Please fork this repo and then issue pull Request for review.
+
 ### Copyraight
 
 2124 Git. Training.
